@@ -7,19 +7,5 @@ It classifies tire tracks based on semantic segmentation method.
 
 ![alt text](resources/pipeline.png)
 
-## Dataset distribution
 
-![alt text](resources/dataset_chart.png)
-
-## Training
-
-![alt text](resources/loss_chart.png)
-
-## Accuracy per class
-
-![alt text](resources/accuracy_chart.png)
-
-## Confusion matrix
-
-![alt text](resources/confusion_matrix.png)
-
+![alt text](resources/results.png)
