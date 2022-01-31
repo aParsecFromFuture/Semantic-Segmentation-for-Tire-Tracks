@@ -6,6 +6,3 @@ It classifies tire tracks based on semantic segmentation method.
 * Albumentation library used for data augmentation.
 
 ![alt text](resources/pipeline.png)
-
-
-![alt text](resources/results.png)
