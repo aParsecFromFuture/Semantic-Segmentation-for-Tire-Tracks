@@ -4,7 +4,7 @@ Tire tracks are a type of track that has a very special place within the framewo
 
 * U-NET architecture used for training.
 * 1100 images labelled with LabelMe annotation tool and splitted into 0.7/0.15/0.15.
-* There are 10 tire track types, (7 annotated, 3 unannotated)
+* There are 10 tire track types (7 annotated, 3 unannotated).
 * PyTorch library used for training.
 * Albumentation library used for data augmentation.
 
